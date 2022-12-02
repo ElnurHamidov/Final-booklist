@@ -17,7 +17,7 @@ export default function Footer(){
                         ><img src={whatsapp} alt="whatsapp" style={{width: '30px' , heigth: '30px'}} /></a>
                     <a target="_blank" rel="noopener noreferrer" className="btn  btn-floating m-1" href="https://www.facebook.com/elnur.gamidov.54" role="button"
                         ><img src={facebook} alt="facebook" style={{width: '30px' , heigth: '30px'}} /></a>
-                    <a target="_blank" rel="noopener noreferrer" className="btn  btn-floating m-1" href="linkedin.com/in/elnur-hamidov-685737216" role="button"
+                    <a target="_blank" rel="noopener noreferrer" className="btn  btn-floating m-1" href="https://www.linkedin.com/in/elnur-hamidov-685737216/" role="button"
                         ><img src={linkedin} alt="linkedin" style={{width: '30px' , heigth: '30px'}} /></a>
                     <a target="_blank" rel="noopener noreferrer" className="btn  btn-floating m-1" href="https://github.com/ElnurHamidov" role="button"
                         ><img src={github} alt="github" style={{width: '30px' , heigth: '30px', borderRadius: '50%'}} /></a>
