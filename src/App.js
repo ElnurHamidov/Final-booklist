@@ -27,9 +27,9 @@ function App() {
           <Router>
 
             <Routes>
-                <Route path="/" element={<LogIn />}/>
+                <Route path="/books" element={<LogIn />}/>
                 <Route path="/registration" element={<Registration/>}/>
-                <Route path="/main" element={<Main />}/>
+                <Route path="/books/main" element={<Main />}/>
                 <Route path="/add" element={<Add/>} />
                 <Route path="/edit" element={<Edit value={edit}/>}/>
             </Routes>
