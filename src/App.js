@@ -29,7 +29,7 @@ function App() {
             <Routes>
                 <Route path="/book-list" element={<LogIn />}/>
                 <Route path="/registration" element={<Registration/>}/>
-                <Route path="/book-list/main" element={<Main />}/>
+                <Route path="/Final-booklist/main" element={<Main />}/>
                 <Route path="/add" element={<Add/>} />
                 <Route path="/edit" element={<Edit value={edit}/>}/>
             </Routes>

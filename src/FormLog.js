@@ -45,7 +45,7 @@ export default function FormLog(){
                 }
                 localStorage.setItem('name' , json.username);
                 localStorage.setItem('token' , json.token);
-                window.location.href="/book-list/main";
+                window.location.href="/Final-booklist/main";
             })
             .catch(error=>console.log(error));
         }
