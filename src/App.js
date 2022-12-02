@@ -27,7 +27,7 @@ function App() {
           <Router>
 
             <Routes>
-                <Route path="/book-list" element={<LogIn />}/>
+                <Route path="/Final-booklist" element={<LogIn />}/>
                 <Route path="/registration" element={<Registration/>}/>
                 <Route path="/Final-booklist/main" element={<Main />}/>
                 <Route path="/add" element={<Add/>} />
