@@ -106,8 +106,8 @@ export default function Add(){
                        
                         </div>
                         
-                        <button style={{margin: '20px 10px',fontWeight: 'bold',width: '55%'}} type="submit" className="btn btn-danger ">Add</button>
-                        <button style={{margin: '20px',fontWeight: 'bold',width: '30%'}} type="button" className="btn btn-warning " onClick={()=>window.location.href="/main"}>Back</button>
+                        <button  type="submit" className="btn btn-danger yes1">Add</button>
+                        <button  type="button" className="btn btn-warning yes2" onClick={()=>window.location.href="/main"}>Back</button>
                     </form>
                 </div>
                 <Footer/>

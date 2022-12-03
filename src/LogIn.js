@@ -16,7 +16,7 @@ export default function LogIn(){
         <div className="main container">
             <div className="row">
                 <div className="col-md-6">
-                    <img src={books} alt="books" className='img-fluid' style={{padding: '20px 0px'}}/>
+                    <img src={books} alt="books"  className='img-fluid' style={{padding: '20px 0px'}}/>
                 </div>
                 <div className="col-md-6">
                     <FormLog />
